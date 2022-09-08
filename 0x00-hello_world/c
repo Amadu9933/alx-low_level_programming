@@ -1,5 +1,6 @@
 
 ========== main.c ==========
 main.c:10: WARNING: Statements should start on a tabstop
-total: 0 errors, 1 warnings, 11 lines checked
+main.c:11: WARNING: Block comments use * on subsequent lines
+total: 0 errors, 2 warnings, 11 lines checked
 main
