@@ -5,15 +5,15 @@
  * You can only use the putchar
  * Return: 0
  */
-
 int main(void)
 {
 	int lw = 'a';
 	while (lw <= 'z')
 	{
 		putchar(lw);
-		lw++;
+		lw += 1;
 	}
 	putchar('\n');
 	return (0);
 }
+
