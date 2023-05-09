@@ -3,18 +3,22 @@
 /**
  * main - program that prints the alphabet in lowercase, and then in uppercase,
  * You can only use the putchar
- * Return: 0
+ * Return:0
+ * Author : Amadu Hamza
  */
 
-int main(void)
+int main()
 {
-	int lw = 'a';
+	char n;
+	n = 'a';
 
-	while (lw <= 'z')
+	while (n <= 'z')
 	{
-		putchar(lw);
-		lw++;
+		putchar(n);
+		n++;
 	}
+
 	putchar('\n');
+
 	return (0);
 }

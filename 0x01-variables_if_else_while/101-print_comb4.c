@@ -7,6 +7,7 @@
  * The two digits must be different
  * 012, 120, 102, 021, 201, 210 are considered the same combination
  * Return: 0
+ * Author : Amadu Hamza
  */
 
 int main(void)
