@@ -6,6 +6,7 @@
  * Numbers should be printed in ascending order
  * You can only use the putchar function
  * Return: 0
+ * Author : Amadu Hamza
  */
 
 int main(void)
@@ -25,4 +26,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
+} 
