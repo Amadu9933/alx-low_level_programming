@@ -1,9 +1,10 @@
-#include <stdio.h>
+#nclude <stdio.h>
 
 /**
  * main - program that prints the lowercase alphabet in reverse.
  * You can only use the putchar function
  * Return: 0
+ * Author : Amadu Hamza
  */
 
 int main(void)
