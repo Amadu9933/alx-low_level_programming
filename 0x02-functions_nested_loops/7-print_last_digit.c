@@ -4,6 +4,7 @@
  * print_last_digit - function that prints the last digit of a number.
  * @x: The input number to check
  * Return: int.
+ * Author : Amadu Hamza
  */
 
 int print_last_digit(int x)
