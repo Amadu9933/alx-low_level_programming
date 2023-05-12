@@ -1,9 +1,11 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
  * print_sign - function that prints the sign of a number..
  * @n: The input number to check
  * Return: int.
+ * Author : Amadu Hamza
  */
 
 int print_sign(int n)
